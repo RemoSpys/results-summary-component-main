@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component finished by RemoSpys
 
-![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
+![image_720](https://github.com/RemoSpys/results-summary-component-main/assets/104862738/e365e5fd-149c-4dfe-bbb9-9ad6480f2f1d)
 
 ## Welcome! 👋
 
